@@ -2,7 +2,7 @@
 import Grid from "./grid.js"
 import Node from "./node.js"
 
-var theGrid = new Grid(3)
+var theGrid = new Grid(5)
 console.log(theGrid)
 
 const createGrid = function() {
